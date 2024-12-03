@@ -30,7 +30,7 @@ instagram_username: sumsucsd
 remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-feed
-color_scheme: dark
+color_scheme: light
 
 # Exclude from processing.
 # The following items will not be processed, by default.
